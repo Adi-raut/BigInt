@@ -509,6 +509,5 @@ int main()
 			<< i << " = ";
 		cout << fact << '\n';
 	}
-// This code is contributed
-// by Gatea David
+
 }
